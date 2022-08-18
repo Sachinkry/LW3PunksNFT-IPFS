@@ -133,7 +133,7 @@ export default function Home() {
         <div>
           <h1 className={styles.title}>Welcome to LW3Punks!</h1>
           <div className={styles.description}>
-            It's an NFT Collection for LearnWeb3 students!
+            It is an NFT Collection for LearnWeb3 students!
           </div>
           <div className={styles.description}>
             {numMintedTokenIds}/10 LW3Punks NFT have been minted.
